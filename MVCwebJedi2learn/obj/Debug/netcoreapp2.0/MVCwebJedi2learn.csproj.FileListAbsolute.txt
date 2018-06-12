@@ -1,0 +1,11 @@
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\bin\Debug\netcoreapp2.0\MVCwebJedi2learn.deps.json
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\bin\Debug\netcoreapp2.0\MVCwebJedi2learn.runtimeconfig.json
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\bin\Debug\netcoreapp2.0\MVCwebJedi2learn.runtimeconfig.dev.json
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\bin\Debug\netcoreapp2.0\MVCwebJedi2learn.dll
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\bin\Debug\netcoreapp2.0\MVCwebJedi2learn.pdb
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.csprojAssemblyReference.cache
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.csproj.CoreCompileInputs.cache
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.AssemblyInfoInputs.cache
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.AssemblyInfo.cs
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.dll
+C:\MSTutorials\VSStudio2017\webJedi2learn.github.io\MVCwebJedi2learn\obj\Debug\netcoreapp2.0\MVCwebJedi2learn.pdb
